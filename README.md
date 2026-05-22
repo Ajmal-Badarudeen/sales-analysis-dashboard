@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Retail Analytics 
+# Indian Retail Analytics 
 
 ## 🔎 Problem Statement
 Analyze sales, profit, and customer behavior for an Indian retail company to improve revenue and profitability.
