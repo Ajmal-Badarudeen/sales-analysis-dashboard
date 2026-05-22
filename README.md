@@ -1,24 +1,38 @@
-# Sales & Revenue Analysis Dashboard
+# 🇮🇳 Indian Retail Analytics 
 
-## 📌 Project Overview
-This project analyzes sales data to identify trends, top-performing categories, and revenue patterns.
+## 🔎 Problem Statement
+Analyze sales, profit, and customer behavior for an Indian retail company to improve revenue and profitability.
 
-## 🛠 Tools Used
+## 📦 Dataset
+Synthetic Indian Superstore-style dataset (customized: Indian cities, IDs, dates 2023–2025).
+
+## 🧰 Tools
 - SQL
 - Python (Pandas, Matplotlib)
 - Power BI
 
-## 📊 Key Insights
-- Identified top revenue-generating regions
-- Found seasonal sales trends
-- Highlighted underperforming categories
+## 📊 KPIs
+- Total Sales, Profit, Profit Margin
+- MoM Growth
+- Top Customers & Products
+- Region-wise performance
 
-## 📁 Files Included
-- dataset.csv
-- eda.py
-- dashboard.pbix
-- Dashboard_preview.png
-- sql_queries.sql
+## 💡 Key Insights (sample)
+- West & South drive majority revenue
+- Electronics yields highest margins
+- Top 10 customers contribute significant share
 
-## 🚀 Outcome
-This project helps businesses make data-driven decisions to improve sales performance.
+## 📁 Structure
+- data/
+- sql/
+- python/
+- dashboard/
+
+## 🚀 How to Run
+1. Load data into SQL (table: superstore)
+2. Run queries from /sql
+3. Execute python/eda.py
+4. Build dashboard using guide
+
+## 👤 Author
+Ajmal Badarudeen
