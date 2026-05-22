@@ -14,9 +14,11 @@ This project analyzes sales data to identify trends, top-performing categories, 
 - Highlighted underperforming categories
 
 ## 📁 Files Included
-- data.csv
-- analysis.py
+- dataset.csv
+- eda.py
 - dashboard.pbix
+- Dashboard_preview.png
+- sql_queries.sql
 
 ## 🚀 Outcome
 This project helps businesses make data-driven decisions to improve sales performance.
